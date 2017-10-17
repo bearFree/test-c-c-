@@ -1,0 +1,9 @@
+
+*.xcuserstate
+*.hmap
+*.ipa
+*.out
+
+*.DS_Store
+*.zip
+*.rar
